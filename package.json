@@ -1,0 +1,16 @@
+{
+  "name": "brainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "har-validator": "^5.1.5",
+    "uuid": "^8.3.2"
+  }
+}
