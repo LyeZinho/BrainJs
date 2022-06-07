@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
     "brainjs": "^0.7.4",
     "har-validator": "^5.1.5",
     "uuid": "^8.3.2"
